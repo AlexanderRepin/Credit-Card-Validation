@@ -9,6 +9,6 @@ Installation:
 
 Running:
 
-Run Validation to verify a sample credit card number
-Run CreditServer to initialize credit card server socket
-Run CreditClient to send information to the server
+1. Run Validation to verify a sample credit card number
+2. Run CreditServer to initialize credit card server socket
+3. Run CreditClient to send information to the server
